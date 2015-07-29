@@ -12,7 +12,9 @@
 <body>
 
 <?php
-echo "php";
+    function shuchu($str){
+        echo $str;
+    }
 ?>
 
 </body>

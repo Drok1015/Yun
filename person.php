@@ -11,7 +11,7 @@
 <body>
 
 <?php
-echo "php";
+    $shuchu = "php2233";
 ?>
 
 </body>
